@@ -1,0 +1,2 @@
+class BotTokenException(Exception):
+    pass
